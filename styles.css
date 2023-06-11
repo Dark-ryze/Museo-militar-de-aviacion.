@@ -1,0 +1,20 @@
+body{
+    background-image: url(militarf.jpg);
+}
+
+.titulo{
+    color: white;
+    font-size: 40px;
+}
+
+.titulo:hover{
+    color: orange;
+}
+
+.footer{
+background-color: black;
+
+}
+
+
+  
